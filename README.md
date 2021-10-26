@@ -2,6 +2,9 @@
 🦟 Game Mata Mosquito  
 </h1>
 
+![matamosquito](https://user-images.githubusercontent.com/88755473/138944755-60db9a2b-6633-4777-b7dd-722d0560151d.png)
+
+
 ### 📚 Sobre
 
 O jogo Mata mosquito, é um jogo desenvolvido durante o Curso de Desenvolvimento Web Completo da Udemy para fins educativos utilizando JavaScript.
@@ -19,6 +22,9 @@ Foram usadas as seguintes tecnologias:
 ### 🚀 Como acessar o Jogo
 
 Hospedado no Github Pages:
+
+https://gabmotamelo.github.io/Jogo-Mata-Mosquito/
+
 
 
 
